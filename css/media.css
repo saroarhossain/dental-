@@ -1,0 +1,360 @@
+@media(min-width: 1499px){
+ .about-section .left-image img {
+    height: 580px;
+    } 
+    }
+
+@media(max-width: 1399px){
+header .top-header .logo .navbar-toggler {
+    display: none;
+    }
+   .about-section .left-image img {
+    height: 580px;
+    } 
+.f2-br {
+    display: block;}
+   .f-br {
+    display: none;}
+}
+ 
+
+
+
+
+@media(max-width: 1199px){
+
+header .top-header .container .row {
+    align-items: center;
+    text-align: center;
+}
+header .top-header .container .row .contact-info .nav {
+    justify-content: center;
+    }   
+
+header .top-header .container .row .contact-info .nav li img{
+    width: 30px;
+    height: 28px;
+    display: block;
+    }
+header .top-header .row .contact-info .nav li h4 {
+    margin: 0;
+    padding-top: 6px;
+    }   
+.about-section .left-image img {
+    width: 100%;
+    height: 600px;
+    /* object-fit: cover; */
+}  
+.slide-section .carousel-caption .row h1{
+    font-size: 42px;
+    margin-bottom: 20px}
+.slide-section .carousel-caption .row h2 {
+    font-size: 32px;}
+
+ .slide-section .carousel-caption .row ul.nav li a {
+    padding: 15px 25px;}   
+
+.about-section .about {
+    padding-bottom: 0;
+    }   
+.about-section .about p {
+    font-size: 15px;}    
+
+.heading br {
+    display: none;
+}
+.service-section .service div {
+    padding: 20px 15px;}
+.f-blog-pic img {
+    width: 70px;
+}    
+footer .blog-section ul .f-blog-pic {
+    padding-right: 12px;}
+
+footer .blog-section ul li p {
+    font-size: 14px;}
+
+footer .blog-section ul li span {
+    font-size: 14px}
+
+footer .address ul.nav li img {
+    width: 25px;
+}
+
+footer .address ul li span {
+    margin-left: 8px;
+    font-size: 14px;
+    }  
+      
+footer .address p {
+    padding-bottom: 20px;
+    font-size: 14px;}
+
+footer .newsletter form input {
+    padding: 8px 10px;
+    /* padding: 8px 5px; */
+    /* font-size: 12px; */
+    }
+
+footer .newsletter form .btn-custom {
+    padding: 8px 10px;}
+
+footer .newsletter ul {
+    margin-top: 70px;
+    }
+
+footer .newsletter ul li a {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 3px;
+    }
+    
+footer .newsletter ul li h6 {
+    font-size: 22px;
+    margin-right: 12px;}
+
+}
+
+
+
+@media(max-width: 1099px){
+.about-section .heading {
+    text-align: center;
+    padding-top: 50px;
+}
+.about-section .about {
+    text-align: center;}
+footer {
+    padding: 70px 0;
+}
+
+
+
+
+@media(max-width: 991px){
+
+header .top-header .logo a img {
+    width: 150px;
+}
+
+header .top-header .container .row .contact-info .nav li {
+    padding-right: 0;
+    }
+
+header .top-header .container .row .contact-info .nav li img{
+    width: 25px;
+    height: 25px;
+    display: block;
+    }
+
+header .top-header .container .row .contact-info .nav li h4 {
+    font-size: 15px;
+}
+header .top-header .container .row .contact-info .nav li span {
+    font-size: 12px;
+    }
+
+.bg-custome .appointment {
+    padding: 15px;
+    margin-left: 18px;
+    }
+.bg-custome .navbar-collapse ul.navbar-nav li.nav-item {
+    padding: 5px;
+}
+.slide-section .carousel-caption .row p {
+    display: none;
+    } 
+ .slide-section .carousel-caption .row h1 {
+    font-size: 32px;
+    margin-bottom: 70px;
+    margin-top: 5px;
+    }   
+ .slide-section .carousel-caption .row h2 {
+    font-size: 28px;
+    }   
+ .slide-section .carousel-caption .row ul.nav li a {
+    padding: 10px 25px;
+    margin-top: 20px;
+    }   
+ .about-section {
+    padding: 60px 40px;
+    }  
+ 
+ .heading br {
+    display: block;
+}
+
+.about-section .left-image img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;}
+
+.about-section .about p {
+    }    
+ .price-section .pricing-plan {
+     margin-bottom: 30px;   
+ }
+ footer .d-block{
+     display: none !important;
+ }
+ .f-br {
+    display: none;} 
+ .slide-section .carousel-caption .row ul.nav {
+    display: block;
+}
+.slide-section .carousel-caption .row p {
+    font-size: 16px;}
+ }
+
+
+
+@media(max-width: 767px){
+header .top-header .container .row .logo a img {
+    width: auto;
+}
+header .top-header .container .row {
+    text-align: initial;
+    }
+header .top-header .container .row .logo .navbar-toggler {
+    position: absolute;
+    right: 0;
+    border: 2px solid #ff9966;
+    display: inline-block;
+    }
+button:focus {
+    outline: none;
+    outline: none;
+    }
+header .top-header .container .row .logo button .menu-button {
+    display: block;
+    margin: 5px 0;
+    width: 25px;
+    height: 3px;
+}
+.bg-custome .navbar-collapse {
+    text-align: center;
+    padding: 10px;
+    }
+button.btn.appointment {
+    padding: 10px 15px;
+    display: inline-block;
+}
+ .slide-section .carousel-caption .row h2,
+ .slide-section .carousel-caption .row h1 {
+    display: none; 
+    } 
+
+   
+.about-section {
+    padding: 60px 20px;
+}
+.about-section .heading {
+    }
+.heading h1 {
+    font-size: 32px;
+}
+.heading,.heading2 br {
+    display: none;
+}
+.doctor-section {
+    padding: 50px 20px;}
+
+footer .address ul.nav li img {
+    display: none;
+    }
+footer .address ul li span {
+    margin: 0;
+    font-size: 13px;
+    }
+.newsletter p {
+    font-size: 15px;
+}
+footer .newsletter form input {
+    padding: 8px 10px;
+    font-size: 12px;
+    }
+footer .newsletter form .btn-custom {
+    font-size: 13px;
+    } 
+footer .newsletter ul {
+    margin-top: 45px;
+    display: block;
+    }       
+
+footer .newsletter ul li h6 {
+    font-size: 22px;
+    margin-right: 0;
+    text-align: center;
+    margin-bottom: 15px;
+}
+footer .newsletter ul li a {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    margin-right: 5px;
+    }
+ .slide-section .carousel-caption .row ul.nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+    
+}
+
+
+
+@media(max-width: 575px){
+
+header .top-header {
+    padding: 20px;}
+
+footer .address ul.nav li img {
+    display: block;
+    width: 21px;
+    }
+footer .address ul li span {
+    margin-left: 15px;
+    font-size: 14px;
+    }
+footer h1 {
+    margin-bottom: 20px;
+    margin-top: 30px;
+    }
+footer .newsletter form input {
+    padding: 10px 18px;
+    font-size: 14px;
+    }
+footer .newsletter form .btn-custom {
+    padding: 10px 18px;
+    }
+
+footer .newsletter ul {
+    display: flex;}
+footer .newsletter ul li h6 {
+    margin-right: 18px;
+    margin-bottom: 0;
+    }
+footer .newsletter ul li a {
+    width: 33px;
+    height: 33px;
+    line-height: 33px;
+    margin-right: 4px;
+    }
+ 
+ footer .d-block{
+     display: block !important;
+ }
+  .slide-section .carousel-caption .row h1 {
+    display: none;
+}
+.carousel-item img {
+    min-height: 400px;}
+ .slide-section .slide-image {
+    transform: translate3d(130px, 20px, 0px);
+}   
+}
+
+
+
+
